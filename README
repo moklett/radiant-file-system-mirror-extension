@@ -1,0 +1,8 @@
+= File System Mirror
+
+Allows you to pull and push Layout, Snippet, and Page Part content between the file system and the Radiant database.
+
+Useful during development when you just want to use a text editor to edit quickly changing Radiant parts.
+
+Warning: This extension is not yet documented, not tested, and potentially dangerous unless you know what you're
+doing!
